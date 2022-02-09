@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #F8F9FA;
+    padding: 20px 0;
+}
+
+header a{
+    text-decoration: none;
+    color: #212529;
+}
+
+header button{
+    background-color: transparent;
+    border: 1px solid #212529;
+    border-radius: 5px;
+}
+
+header button .count{
+    background-color: #212529;
+    color: #fff;
+    border-radius: 100%;
+    padding: 1px 5px;
+}
+
+#Slider{
+    padding: 5rem 0;
+}
+
+
+#Cards{
+    padding: 5rem 0;
+}
+
+#Cards .box{
+    margin-bottom: 30px;
+}
+
+
+.sale{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}

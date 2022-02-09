@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    padding: 0 4rem;
+}
+
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.box img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.box{
+    margin-bottom: 30px;
+}
+
+#First{
+    background-image: url(https://cdn.goadventureturkey.com/cappadocia/see-desktop-kapak.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 12rem 0;
+    background-attachment: fixed;
+}
+
+
+#Second{
+    background-image: url(https://cdn.goadventureturkey.com/cappadocia/touch-desktop-kapak.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 12rem 0;
+    background-attachment: fixed;
+
+}
+
+#Third{
+    background-image: url(https://cdn.goadventureturkey.com/cappadocia/taste-desktop-kapak.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 12rem 0;
+    background-attachment: fixed;
+
+}
